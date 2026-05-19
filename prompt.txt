@@ -1,137 +1,29 @@
 PREMIUM CAFE WEBSITE PROMPT FRAMEWORK
 
---------------------------------------------------
-1. HOMEPAGE COPY PROMPT
---------------------------------------------------
+1. Homepage Copy Prompt
 
-Create premium homepage copy for a modern local cafe website.
-
-Generate:
-- a strong emotional headline
-- a modern subheadline
-- a short introduction section
-- a value proposition
-- premium CTA buttons
-
-The website should feel:
-- cozy
-- modern
-- luxurious
-- welcoming
-- visually aesthetic
-
-Use human-sounding and emotionally engaging language.
-
-Avoid:
-- robotic AI phrasing
-- generic business copy
-- repetitive wording
-
-The content must feel realistic and ready for a real website launch.
-
-Tone:
-- warm
-- stylish
-- friendly
-- premium
+Create premium homepage copy for a modern local cafe website. Generate a strong emotional headline, modern subheadline, short introduction, value proposition, and premium CTA buttons. The website should feel cozy, luxurious, visually aesthetic, and welcoming. Use human-sounding and emotionally engaging language while avoiding robotic AI phrasing or generic business copy. The final content should feel realistic and ready for a real-world website launch. Maintain a warm, stylish, friendly, and premium tone throughout the copy.
 
 --------------------------------------------------
-2. SERVICES PAGE PROMPT
---------------------------------------------------
 
-Create premium service page content for a modern cafe website.
+2. Services Page Prompt
 
-Generate content for:
-- artisan coffee
-- desserts
-- breakfast meals
-- workspace seating
-- free WiFi
-- live music or events
-
-For each service include:
-- service title
-- short premium description
-- emotional customer benefit
-- why customers should choose this service
-
-The language should feel:
-- business-specific
-- premium
-- natural
-- customer-focused
-
-Avoid generic AI wording.
-The final content must feel publish-ready.
+Create premium service page content for a modern cafe website. Generate content for artisan coffee, desserts, breakfast meals, workspace seating, free WiFi, and live music or events. For each service, include a service title, premium short description, emotional customer benefit, and reasons why customers should choose the service. The language should feel business-specific, natural, customer-focused, and publish-ready while avoiding generic AI-generated wording.
 
 --------------------------------------------------
-3. CTA SECTION PROMPT
---------------------------------------------------
 
-Create persuasive CTA sections for a premium cafe website.
+3. CTA Section Prompt
 
-Generate:
-- booking table CTA
-- visit cafe CTA
-- order now CTA
-- evening coffee CTA
-
-The CTA copy should:
-- create urgency
-- build excitement
-- feel emotional
-- encourage user interaction
-
-Use premium and modern language.
-
-Examples:
-- “Reserve Your Cozy Corner Tonight”
-- “Your Next Favorite Coffee Spot Awaits”
+Create persuasive CTA sections for a premium cafe website. Generate booking table CTAs, visit cafe CTAs, order now sections, and evening coffee promotional CTAs. The call-to-action copy should create urgency, excitement, emotional connection, and encourage user interaction. Use modern and premium language similar to luxury lifestyle brands. Example styles include “Reserve Your Cozy Corner Tonight” and “Your Next Favorite Coffee Spot Awaits.”
 
 --------------------------------------------------
-4. TONE ADAPTATION PROMPT
---------------------------------------------------
 
-Rewrite the website copy for a modern cafe using:
-- warm tone
-- friendly language
-- confident wording
-- premium feel
-- simple readability
+4. Tone Adaptation Prompt
 
-Ensure the content feels:
-- human-written
-- emotionally engaging
-- stylish but easy to understand
-
-Avoid robotic AI phrasing.
+Rewrite the website copy for a modern cafe using a warm, friendly, confident, and premium tone. The language should remain simple, emotionally engaging, stylish, and easy to understand. Ensure the writing feels human-written and realistic while avoiding robotic AI phrasing or unnatural wording.
 
 --------------------------------------------------
-5. PREMIUM UI/UX DIRECTION PROMPT
---------------------------------------------------
 
-Suggest premium UI/UX ideas for a modern cafe website.
+5. Premium UI/UX Direction Prompt
 
-Include:
-- premium color palette
-- typography pairing
-- hero section layout
-- glassmorphism cards
-- hover animations
-- smooth scrolling effects
-- cinematic gallery ideas
-- mobile-first responsiveness
-- 3D card interactions
-- glowing buttons
-- animated navbar
-- parallax scrolling
-- cursor interactions
-
-The website should feel:
-- luxurious
-- immersive
-- highly interactive
-- modern
-- visually premium
-
-The UI should improve user engagement and make the cafe brand feel high-end.
+Suggest premium UI/UX ideas for a modern cafe website. Include premium color palettes, typography pairings, hero section layouts, glassmorphism cards, hover animations, smooth scrolling effects, cinematic gallery ideas, mobile-first responsiveness, 3D card interactions, glowing buttons, animated navbars, parallax scrolling, and cursor interactions. The website should feel luxurious, immersive, highly interactive, modern, and visually premium. The UI should improve customer engagement and create a high-end brand experience.
