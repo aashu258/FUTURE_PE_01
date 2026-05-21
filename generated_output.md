@@ -1,4 +1,5 @@
 # Generated Outputs for Premium Cafe Website Prompt Framework
+<img width="1024" height="1536" alt="ChatGPT Image May 22, 2026, 12_01_19 AM" src="https://github.com/user-attachments/assets/ace03c83-080e-473a-a98e-a694af8c7028" />
 
 ---
 
